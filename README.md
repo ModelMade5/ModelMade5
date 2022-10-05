@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ModelMade5
+- 👋 Hi, I’m Holly
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning code with free code camp, Udemy, and code tenderloin.
 - 💞️ I’m looking to collaborate on web development.
